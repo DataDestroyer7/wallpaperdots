@@ -1,1 +1,2 @@
 Add everything to your home folder to add the configuration. May only work on hyprland so change the files if necessary to match your desktop. The scripts definetly only work with hyprland and wofi but you should be able to change them to match your desktop.
+Also my bad if it's a little hard to use, I never intended them to be used by others so there will be a lot of spaghetti code, they will most likely not work just copy and pasting so you have to change the files a bit.
