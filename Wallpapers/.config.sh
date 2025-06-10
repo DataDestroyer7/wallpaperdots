@@ -1,0 +1,2 @@
+useAnimeWallpapers=true
+echo $useAnimeWallpapers
